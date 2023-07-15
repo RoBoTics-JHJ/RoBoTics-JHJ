@@ -3,7 +3,7 @@
 ### ⚡ Useful
 |TITLE|CONTENT|REPO|
 |:---:|:---:|:---:|
-|bag2rgb| *Classification* |[🖱️](https://github.com/RoBoTics-JHJ/bag2rgb)|
+|bag2rgb| Get rgb images and a video from .bag file |[🖱️](https://github.com/RoBoTics-JHJ/bag2rgb)|
 
 
 
