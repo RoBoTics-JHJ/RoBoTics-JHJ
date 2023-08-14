@@ -6,11 +6,11 @@
 |---|:---:|:---:|---|:---:|
 |A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles|-|-|Computers and Electronics in Agriculture|8.3(2023)|
 
+  　
 ### 📁 Project
 ├─ 👾 Arduino
 
-
-
+  　
 ### 📁 Program
 ├─ 🛠️ Useful      
 |TITLE|CONTENT|REPO|
