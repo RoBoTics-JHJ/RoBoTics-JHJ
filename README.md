@@ -1,5 +1,50 @@
 # 진형준(Hyung Jun, Jin) 👋
 
+
+### 📁 Paper
+|TITLE|REPO|DOC|JOURNAL|JIF|
+|---|:---:|:---:|---|:---:|
+|A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles|-|-|Computers and Electronics in Agriculture|8.3(2023)|
+
+### 📁 Project
+├─ 👾 Arduino
+
+
+
+### 📁 Program
+├─ 🛠️ Useful      
+|TITLE|CONTENT|REPO|
+|:---:|:---:|:---:|
+|bag2rgb| Get RGB images and a video from **'.bag'** file |[🖱️](https://github.com/RoBoTics-JHJ/bag2rgb)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 ```
 📁 Project
   ├─ ex
@@ -7,17 +52,12 @@
   ├─📁 ex    
   │  └─ ex
   ├─ ex
-📁 Paper
-  ├─✏️ A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles
-📁 Programme
 ```
 
-  
-### ⚡ Useful
 |TITLE|CONTENT|REPO|
 |:---:|:---:|:---:|
 |bag2rgb| Get RGB images and a video from **'.bag'** file |[🖱️](https://github.com/RoBoTics-JHJ/bag2rgb)|
-
+-->
 
 
 <!--
