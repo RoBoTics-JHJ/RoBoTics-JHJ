@@ -1,5 +1,18 @@
 # 진형준(Hyung Jun, Jin) 👋
 
+```bash
+📁 Project
+  ├─ ex
+  │  
+  ├─📁 ex    
+  │  └─ ex
+  ├─ ex
+📁 Paper
+  ├─✏️(OnGoing) ['A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles'](https://github.com/RoBoTics-JHJ/bag2rgb)
+📁 Programme
+```
+
+  
 ### ⚡ Useful
 |TITLE|CONTENT|REPO|
 |:---:|:---:|:---:|
