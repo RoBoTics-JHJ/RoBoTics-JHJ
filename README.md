@@ -8,11 +8,13 @@
 |---|:---:|:---:|---|:---:|
 |A Deep Learning-based Pin Precision Weeding Machine with Densely Placed Needle Nozzles|-|-|Computers and Electronics in Agriculture|8.3(2023)|
 
-├─ 🤓 Conference
+└─ 🤓 Conference
 
   　
 ### 📁 Project
 ├─ 👾 Arduino
+
+└─
 
   　
 ### 📁 Program
@@ -21,6 +23,7 @@
 |:---:|:---:|:---:|
 |bag2rgb| Get RGB images and a video from **'.bag'** file |[🖱️](https://github.com/RoBoTics-JHJ/bag2rgb)|
 
+└─
 
 
 
